@@ -1,8 +1,16 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0b1220,40:0f766e,100:38bdf8&text=Kw1ntS&fontColor=ffffff&fontSize=56&animation=fadeIn&desc=q1x0o.dev%20%7C%20Backend%20Developer%20%7C%20Distributed%20Systems%20%7C%20Cloud&descAlignY=62&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0b1220,45:134e4a,100:0ea5e9&text=Kw1ntS&fontColor=f8fafc&fontSize=58&fontAlignY=42&desc=q1x0o.dev%20%20%20backend%20developer%20%20%20distributed%20systems%20%20%20cloud&descAlignY=64&descSize=17&animation=fadeIn"
     alt="Kw1ntS banner"
   />
+</p>
+
+<p align="center">
+  <strong>Readable systems. Measured performance. Software that ships.</strong>
+</p>
+
+<p align="center">
+  Backend engineer focused on cloud-aware services, distributed systems, and code that stays understandable under real load.
 </p>
 
 <p align="center">
@@ -10,69 +18,70 @@
     <img src="https://img.shields.io/badge/Telegram-0b1220?style=for-the-badge&logo=telegram&logoColor=38BDF8" alt="Telegram" />
   </a>
   <a href="https://discordapp.com/users/442220216701812750">
-    <img src="https://img.shields.io/badge/Discord-0b1220?style=for-the-badge&logo=discord&logoColor=22C55E" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-0b1220?style=for-the-badge&logo=discord&logoColor=F8FAFC" alt="Discord" />
   </a>
   <a href="https://github.com/Kw1ntS?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-0b1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-0b1220?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="Repositories" />
   </a>
 </p>
 
-```text
-> profile.init
-alias    : Kw1ntS
-name     : q1x0o.dev
-role     : backend developer
-focus    : distributed systems, cloud, performance
-motto    : code -> optimize -> ship
-```
-
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <h3>/approach</h3>
-      <ul>
-        <li>Design systems that stay readable as they grow.</li>
-        <li>Keep architecture explicit and complexity intentional.</li>
-        <li>Optimize after measuring, not by guesswork.</li>
-        <li>Prefer shipping real software over polishing abstractions.</li>
-      </ul>
-
+    <td valign="top" width="52%">
+      <h3>Identity</h3>
+      <p>
+        I build backend systems with a preference for explicit architecture, stable interfaces, and performance work backed by measurement.
+      </p>
+      <p>
+        The goal is not to make software look complex. The goal is to make it survive growth without turning unreadable.
+      </p>
     </td>
-    <td valign="top" width="50%">
-      <h3>/current_vector</h3>
-      <ul>
-        <li>Backend-first product work</li>
-        <li>Cloud-aware delivery</li>
-        <li>Public experiments in Python, PHP, C++, and HTML</li>
-        <li>Open source as a practical way to learn in public</li>
-      </ul>
-
+    <td valign="top" width="48%">
+      <h3>Current Focus</h3>
+      <p>
+        Backend-first products, distributed system fundamentals, cloud delivery, and practical open source work.
+      </p>
+      <p>
+        Public projects on this profile currently span Python, PHP, C++, and HTML.
+      </p>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Kw1ntS&bg_color=0d1117&color=38bdf8&line=22c55e&point=f8fafc&area=true&hide_border=true"
-    alt="Contribution graph"
-  />
-</p>
+```text
+principles/
+|-- architecture over noise
+|-- metrics over assumptions
+|-- shipping over performative complexity
+`-- maintainability over cleverness
+```
 
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Kw1ntS&show_icons=true&hide_title=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1&icon_color=22c55e"
-    alt="GitHub stats"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kw1ntS&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1"
-    alt="Top languages"
-  />
-</p>
+### Selected Work
 
-### /stack_radar
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Kw1ntS/Seti">Seti</a></strong><br />
+      <sub>C++ / public repository</sub>
+    </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Kw1ntS/ZI">ZI</a></strong><br />
+      <sub>Python / public repository</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Kw1ntS/yii2">yii2</a></strong><br />
+      <sub>PHP / public repository</sub>
+    </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Kw1ntS/xr">xr</a></strong><br />
+      <sub>HTML / public repository</sub>
+    </td>
+  </tr>
+</table>
+
+### Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
@@ -85,42 +94,6 @@ motto    : code -> optimize -> ship
   <img src="https://img.shields.io/badge/Open%20Source-111827?style=flat-square" alt="Open Source" />
 </p>
 
-### /selected_repos
-
 <p align="center">
-  <a href="https://github.com/Kw1ntS/Seti">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Kw1ntS&repo=Seti&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1&icon_color=22c55e"
-      alt="Seti repository"
-    />
-  </a>
-  <a href="https://github.com/Kw1ntS/ZI">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Kw1ntS&repo=ZI&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1&icon_color=22c55e"
-      alt="ZI repository"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Kw1ntS/yii2">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Kw1ntS&repo=yii2&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1&icon_color=22c55e"
-      alt="yii2 repository"
-    />
-  </a>
-  <a href="https://github.com/Kw1ntS/xr">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Kw1ntS&repo=xr&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1&icon_color=22c55e"
-      alt="xr repository"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Readable systems. Measurable performance. Working software.</sub>
+  <sub>GitHub as a working notebook for systems thinking, backend engineering, and public iteration.</sub>
 </p>
