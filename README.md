@@ -56,31 +56,6 @@ principles/
 `-- maintainability over cleverness
 ```
 
-### Selected Work
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong><a href="https://github.com/Kw1ntS/Seti">Seti</a></strong><br />
-      <sub>C++ / public repository</sub>
-    </td>
-    <td valign="top" width="50%">
-      <strong><a href="https://github.com/Kw1ntS/ZI">ZI</a></strong><br />
-      <sub>Python / public repository</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong><a href="https://github.com/Kw1ntS/yii2">yii2</a></strong><br />
-      <sub>PHP / public repository</sub>
-    </td>
-    <td valign="top" width="50%">
-      <strong><a href="https://github.com/Kw1ntS/xr">xr</a></strong><br />
-      <sub>HTML / public repository</sub>
-    </td>
-  </tr>
-</table>
-
 ### Stack
 
 <p>
