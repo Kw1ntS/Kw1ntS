@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%94%A7+Building+reliable+backend+systems;%F0%9F%8C%90+Distributed+architectures+%26+cloud+delivery;%F0%9F%93%90+Code+that+survives+growth+without+chaos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=%F0%9F%94%A7+Building+reliable+backend+systems;%F0%9F%8C%90+Distributed+architectures+%26+cloud+delivery;%F0%9F%93%90+Code+that+survives+growth+without+chaos" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -72,7 +72,7 @@ currently:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kw1ntS&layout=donut-vertical&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=a5f3fc&bg_color=00000000&langs_count=6" alt="Top Languages" width="280"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kw1ntS&layout=donut-vertical&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=a5f3fc&bg_color=00000000&langs_count=6" alt="Top Languages" width="280"/>
 
 </div>
 
@@ -115,7 +115,7 @@ currently:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kw1ntS&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=a5f3fc&bg_color=00000000&ring_color=0ea5e9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Kw1ntS&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=a5f3fc&bg_color=00000000&ring_color=0ea5e9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   &nbsp;&nbsp;
   <img height="180em" src="https://streak-stats.demolab.com?user=Kw1ntS&theme=transparent&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=A5F3FC&sideLabels=A5F3FC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=5EEAD4&stroke=134E4A&background=00000000" alt="GitHub Streak"/>
 </div>
